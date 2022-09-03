@@ -27,10 +27,6 @@ I'm a full-stack developer having around 3.5 years in .NET Technologies.
 - 🌱 I’m currently learning Docker and Kubernetes  
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
