@@ -19,15 +19,9 @@ I'm a full-stack developer having around 3.5 years in .NET Technologies.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
 - 🔭 I’m currently working on [Smart Clinic(SaaS)](https://instacare.com.pk)  
-  
 
-- 🌱 I’m currently learning Docker and Kubernetes  
-
-
-</td></tr></table>  
+- 🌱 I’m currently learning Docker and Kubernetes 
 
 <br/>  
 
