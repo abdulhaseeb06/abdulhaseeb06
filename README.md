@@ -19,7 +19,7 @@ I'm a full-stack developer having around 3.5 years in .NET Technologies.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [Smart Clinic(SaaS)](https://instacare.com.pk)  
   
