@@ -11,9 +11,8 @@
 
 
 
-### Glad to see you here!  
-I'm a full-stack developer having around 3.5 years in .NET Technologies.  
-  
+### Glad to see you here! 
+A software engineer with over 4.5 years of experience in web development, specializing in the healthcare industry and .NET technologies, developing reliable and high-quality software solutions, and loves to explore new technologies.
 
 <br/>  
 
